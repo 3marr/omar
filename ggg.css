@@ -1,0 +1,21 @@
+h1 {
+    color: #ffffff;
+    font-size: 50px;
+    text-align: center;
+    background-color:  rgb(97, 97, 97);
+    background-size: 200px 100px;
+    padding: 10px;
+    border-radius: 20px;
+    text-shadow: 2px 2px 4px rgba(0,0,0, 2);
+   }
+h2 {color: #ffffff;}
+h3 {color: #d8d3d3;}
+h4 {color: #d8d3d3;}
+p{color: #653aff;}
+li { 
+    color:rgb(255, 145, 0);
+    
+   }
+   dl{color: rgb(255, 215, 147);}
+   dt{color:rgb(115, 255, 255)}
+   dd{color:#b1ff9c}
